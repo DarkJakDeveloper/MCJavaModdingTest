@@ -1,0 +1,16 @@
+[
+{
+  "modid": "javatest",
+  "name": "Java Programming Test",
+  "description": "A simple mod I decided to make to test my Java modding skills!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lost_Steve"],
+  "credits": "Mom, for the block ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

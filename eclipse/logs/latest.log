@@ -1,0 +1,30 @@
+[19:21:17] [main/INFO]: Setting user: Player316
+[19:21:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:21:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[19:21:30] [Sound Library Loader/INFO]: Sound engine started
+[19:21:31] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:21:31] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:21:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[19:21:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:21:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:21:32] [Sound Library Loader/INFO]: Sound engine started
+[19:23:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:23:15] [Server thread/INFO]: Generating keypair
+[19:23:16] [Server thread/INFO]: Preparing start region for level 0
+[19:23:17] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:23:18] [Server thread/INFO]: Player316[local:E:5bcfa218] logged in with entity id 357 at (257.47562579640896, 83.0, 259.0329390094139)
+[19:23:18] [Server thread/INFO]: Player316 joined the game
+[19:23:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
+[19:23:44] [Server thread/INFO]: [Player316: Set own game mode to Creative Mode]
+[19:23:44] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[19:23:46] [Server thread/INFO]: Player316 has just earned the achievement [Taking Inventory]
+[19:23:46] [Client thread/INFO]: [CHAT] Player316 has just earned the achievement [Taking Inventory]
+[19:24:55] [Client thread/INFO]: Stopping!
+[19:24:55] [Server thread/INFO]: Stopping server
+[19:24:55] [Server thread/INFO]: Saving players
+[19:24:55] [Server thread/INFO]: Saving worlds
+[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[19:24:55] [Client Shutdown Thread/INFO]: Stopping server
+[19:24:55] [Client Shutdown Thread/INFO]: Saving players
