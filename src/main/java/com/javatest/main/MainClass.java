@@ -10,10 +10,14 @@ import java.util.Random;
 
 import org.apache.logging.log4j.Logger;
 
+import com.javatest.commands.CommandGOAL;
+
 import cpw.mods.fml.common.FMLLog;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLServerStartedEvent;
+import cpw.mods.fml.common.event.FMLServerStartingEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @Mod(modid = MainClass.MODID, version = MainClass.VERSION)
@@ -33,6 +37,12 @@ public class MainClass
 		
 		Block momiqueOre = new ModBlock(Material.rock, "momiqueOre", 4.0F, momique);
 		GameRegistry.registerBlock(momiqueOre, "momiqueOre");	
+	}
+	
+	@EventHandler
+	public static void serverLoad(FMLServerStartingEvent event) 
+	{
+		event.registerServerCommand(new CommandGOAL());
 	}
 	
 	private class ModBlock extends Block

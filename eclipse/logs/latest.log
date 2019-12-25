@@ -1,30 +1,131 @@
-[19:21:17] [main/INFO]: Setting user: Player316
-[19:21:19] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:21:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
-[19:21:30] [Sound Library Loader/INFO]: Sound engine started
-[19:21:31] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:21:31] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:21:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
-[19:21:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:21:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:21:32] [Sound Library Loader/INFO]: Sound engine started
-[19:23:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:23:15] [Server thread/INFO]: Generating keypair
-[19:23:16] [Server thread/INFO]: Preparing start region for level 0
-[19:23:17] [Server thread/INFO]: Changing view distance to 12, from 10
-[19:23:18] [Server thread/INFO]: Player316[local:E:5bcfa218] logged in with entity id 357 at (257.47562579640896, 83.0, 259.0329390094139)
-[19:23:18] [Server thread/INFO]: Player316 joined the game
-[19:23:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
-[19:23:44] [Server thread/INFO]: [Player316: Set own game mode to Creative Mode]
-[19:23:44] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[19:23:46] [Server thread/INFO]: Player316 has just earned the achievement [Taking Inventory]
-[19:23:46] [Client thread/INFO]: [CHAT] Player316 has just earned the achievement [Taking Inventory]
-[19:24:55] [Client thread/INFO]: Stopping!
-[19:24:55] [Server thread/INFO]: Stopping server
-[19:24:55] [Server thread/INFO]: Saving players
-[19:24:55] [Server thread/INFO]: Saving worlds
-[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
-[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
-[19:24:55] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
-[19:24:55] [Client Shutdown Thread/INFO]: Stopping server
-[19:24:55] [Client Shutdown Thread/INFO]: Saving players
+[17:36:06] [main/INFO]: Setting user: Player973
+[17:36:07] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:36:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[17:36:18] [Sound Library Loader/INFO]: Sound engine started
+[17:36:19] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:36:19] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:36:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[17:36:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:36:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:36:21] [Sound Library Loader/INFO]: Sound engine started
+[17:36:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:36:26] [Server thread/INFO]: Generating keypair
+[17:36:27] [Server thread/INFO]: Preparing start region for level 0
+[17:36:28] [Server thread/INFO]: Preparing spawn area: 28%
+[17:36:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:36:29] [Server thread/INFO]: Player973[local:E:1ffbfd44] logged in with entity id 361 at (253.67473046644676, 82.0, 233.05164584141195)
+[17:36:29] [Server thread/INFO]: Player973 joined the game
+[17:36:52] [Client thread/INFO]: [CHAT] /gameorientedassemblylisp, /gamemode, /give, /gamerule
+[17:36:54] [Client thread/INFO]: [CHAT] Game Oriented Assembly Lisp is a programming language, a dialect of the Lisp language, specifically designed for video games for PlayStation 2, 3, and PSP. It is developed by Andy Gavin and the Jak and Daxter team at the company Naughty Dog. GOAL's syntax resembles the Lisp dialect Scheme, though with many object-oriented programming features such as classes, inheritance, and virtual functions.
+[17:36:54] [Client thread/INFO]: [CHAT] GOAL does not run in an interpreter, but instead is compiled directly into PlayStation 2 machine code to execute. It offers limited facilities for garbage collection, relying extensively on runtime support. It offers dynamic memory allocation primitives designed to make it well-suited to running in constant memory on a video game console. GOAL has extensive support for inlined assembly language using a special 'rlet' form, allowing programs to freely mix assembly and higher-level constructs within one function.
+[17:36:54] [Client thread/INFO]: [CHAT] Source: Wikipedia
+[17:37:02] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:37:03] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:37:03] [Server thread/INFO]: Saving and pausing game...
+[17:37:03] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:37:04] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:37:04] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:37:26] [Client thread/INFO]: [CHAT] --- Showing help page 1 of 5 (/help <page>) ---
+[17:37:26] [Client thread/INFO]: [CHAT] /achievement give <stat_name> [player]
+[17:37:26] [Client thread/INFO]: [CHAT] /clear <player> [item] [data]
+[17:37:26] [Client thread/INFO]: [CHAT] /debug <start|stop>
+[17:37:26] [Client thread/INFO]: [CHAT] /defaultgamemode <mode>
+[17:37:26] [Client thread/INFO]: [CHAT] /difficulty <new difficulty>
+[17:37:26] [Client thread/INFO]: [CHAT] /effect <player> <effect> [seconds] [amplifier]
+[17:37:26] [Client thread/INFO]: [CHAT] /enchant <player> <enchantment ID> [level]
+[17:37:26] [Client thread/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[17:37:27] [Client thread/INFO]: [CHAT] --- Showing help page 2 of 5 (/help <page>) ---
+[17:37:27] [Client thread/INFO]: [CHAT] Use /forge <subcommand>. Subcommands are tps, track
+[17:37:27] [Client thread/INFO]: [CHAT] /gamemode <mode> [player]
+[17:37:27] [Client thread/INFO]: [CHAT] Tells you a little bit about GOAL, amirite?
+[17:37:27] [Client thread/INFO]: [CHAT] /gamerule <rule name> <value> OR /gamerule <rule name>
+[17:37:27] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[17:37:27] [Client thread/INFO]: [CHAT] /help [page|command name]
+[17:37:27] [Client thread/INFO]: [CHAT] /kill
+[17:37:42] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:37:42] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[17:37:45] [Server thread/INFO]: Saving and pausing game...
+[17:37:45] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:37:45] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:37:45] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:40:26] [Client thread/INFO]: Stopping!
+[17:40:26] [Server thread/INFO]: Stopping server
+[17:40:26] [Server thread/INFO]: Saving players
+[17:40:26] [Server thread/INFO]: Saving worlds
+[17:40:26] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:40:26] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:40:26] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:40:37] [main/INFO]: Setting user: Player412
+[17:40:39] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:40:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[17:40:50] [Sound Library Loader/INFO]: Sound engine started
+[17:40:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:40:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:40:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Java Programming Test
+[17:40:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:40:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:40:53] [Sound Library Loader/INFO]: Sound engine started
+[17:41:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:41:08] [Server thread/INFO]: Generating keypair
+[17:41:09] [Server thread/INFO]: Preparing start region for level 0
+[17:41:10] [Server thread/INFO]: Preparing spawn area: 58%
+[17:41:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:41:11] [Server thread/INFO]: Player412[local:E:02bffb14] logged in with entity id 366 at (253.67473046644676, 82.0, 233.05164584141195)
+[17:41:11] [Server thread/INFO]: Player412 joined the game
+[17:41:26] [Client thread/INFO]: [CHAT] Game Oriented Assembly Lisp is a programming language, a dialect of the Lisp language, specifically designed for video games for PlayStation 2, 3, and PSP. It is developed by Andy Gavin and the Jak and Daxter team at the company Naughty Dog. GOAL's syntax resembles the Lisp dialect Scheme, though with many object-oriented programming features such as classes, inheritance, and virtual functions.
+[17:41:26] [Client thread/INFO]: [CHAT] GOAL does not run in an interpreter, but instead is compiled directly into PlayStation 2 machine code to execute. It offers limited facilities for garbage collection, relying extensively on runtime support. It offers dynamic memory allocation primitives designed to make it well-suited to running in constant memory on a video game console. GOAL has extensive support for inlined assembly language using a special 'rlet' form, allowing programs to freely mix assembly and higher-level constructs within one function.
+[17:41:26] [Client thread/INFO]: [CHAT] Source: Wikipedia
+[17:41:30] [Client thread/INFO]: [CHAT] Game Oriented Assembly Lisp is a programming language, a dialect of the Lisp language, specifically designed for video games for PlayStation 2, 3, and PSP. It is developed by Andy Gavin and the Jak and Daxter team at the company Naughty Dog. GOAL's syntax resembles the Lisp dialect Scheme, though with many object-oriented programming features such as classes, inheritance, and virtual functions.
+[17:41:30] [Client thread/INFO]: [CHAT] GOAL does not run in an interpreter, but instead is compiled directly into PlayStation 2 machine code to execute. It offers limited facilities for garbage collection, relying extensively on runtime support. It offers dynamic memory allocation primitives designed to make it well-suited to running in constant memory on a video game console. GOAL has extensive support for inlined assembly language using a special 'rlet' form, allowing programs to freely mix assembly and higher-level constructs within one function.
+[17:41:30] [Client thread/INFO]: [CHAT] Source: Wikipedia
+[17:41:38] [Server thread/INFO]: Saving and pausing game...
+[17:41:38] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:41:39] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:41:39] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:41:45] [Server thread/INFO]: Player412 has just earned the achievement [Taking Inventory]
+[17:41:45] [Client thread/INFO]: [CHAT] Player412 has just earned the achievement [Taking Inventory]
+[17:41:52] [Server thread/INFO]: Saving and pausing game...
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:41:52] [Server thread/INFO]: Stopping server
+[17:41:52] [Server thread/INFO]: Saving players
+[17:41:52] [Server thread/INFO]: Saving worlds
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:42:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:42:10] [Server thread/INFO]: Generating keypair
+[17:42:10] [Server thread/INFO]: Preparing start region for level 0
+[17:42:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:42:10] [Server thread/INFO]: Player412[local:E:8b20195a] logged in with entity id 1389 at (256.69999998807907, 81.0, 259.52003821954975)
+[17:42:10] [Server thread/INFO]: Player412 joined the game
+[17:42:20] [Server thread/INFO]: [Player412: Set own game mode to Survival Mode]
+[17:42:20] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[17:42:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2287ms behind, skipping 45 tick(s)
+[17:42:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5427ms behind, skipping 108 tick(s)
+[17:42:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[17:42:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[17:43:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8921ms behind, skipping 178 tick(s)
+[17:43:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[17:43:32] [Server thread/INFO]: Saving and pausing game...
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:43:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2744ms behind, skipping 54 tick(s)
+[17:43:51] [Server thread/INFO]: Saving and pausing game...
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:44:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5770ms behind, skipping 115 tick(s)
+[17:44:20] [Server thread/INFO]: Saving and pausing game...
+[17:44:20] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:44:20] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:44:20] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:44:21] [Server thread/INFO]: Stopping server
+[17:44:21] [Server thread/INFO]: Saving players
+[17:44:21] [Server thread/INFO]: Saving worlds
+[17:44:21] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Overworld
+[17:44:21] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/Nether
+[17:44:21] [Server thread/INFO]: Saving chunks for level 'ModDevelopment(Type.JAVA_TEST);'/The End
+[17:44:22] [Client thread/INFO]: Stopping!

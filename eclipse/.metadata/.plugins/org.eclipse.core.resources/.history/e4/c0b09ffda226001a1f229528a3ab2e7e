@@ -1,0 +1,30 @@
+package com.javatest.commands;
+
+import java.util.List;
+
+import com.google.common.collect.Lists;
+import com.javatest.main.MainClass;
+
+import net.minecraft.command.CommandBase;
+import net.minecraft.command.ICommandSender;
+
+public class CommandGOAL extends CommandBase 
+{
+	private final List<String> aliases = Lists.newArrayList(MainClass.MODID, "goal", "sonygoal", "tellmeaboutgoal", "wtfisgoal", "iveneverheardofgoal");
+
+	@Override
+	public String getCommandName() {
+		return "gameorientedassemblylisp";
+	}
+
+	@Override
+	public String getCommandUsage(ICommandSender p_71518_1_) {
+		return "Tells you a little bit about GOAL, amirite?";
+	}
+
+	@Override
+	public void processCommand(ICommandSender p_71515_1_, String[] p_71515_2_) {
+		
+	}
+	
+}
